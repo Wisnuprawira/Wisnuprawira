@@ -1,6 +1,6 @@
 # Halo semua! 
 
-Perkenalkan nama saya **Wisnu Prawira**.\
+Perkenalkan nama saya **Wisnu Prawira**.
 
 
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/wisnu-prawira-bb53691bb/)ku ya.
