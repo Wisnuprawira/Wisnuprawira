@@ -4,7 +4,12 @@ Perkenalkan nama saya **Wisnu Prawira**.
 
 
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/wisnu-prawira-bb53691bb/)ku ya.
-<div class="container">
+<p align="left">
+<a href="https://github.com/gilangadhan">
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=gilangadhan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gilangadhan&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
     <h1>🚀 Dunia Koding Wisnu 🌐</h1>
 
     <div class="about">
@@ -38,11 +43,5 @@ Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](http
       <p>Email: <a href="mailto:wisnu.prawira.jobs@gmail.com">wisnu.prawira.jobs@gmail.com</a></p>
       <p>LinkedIn: <a href="https://linkedin.com">Yuk connect!</a></p>
     </div>
-  </div>
 
-<p align="left">
-<a href="https://github.com/gilangadhan">
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=gilangadhan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gilangadhan&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
+
