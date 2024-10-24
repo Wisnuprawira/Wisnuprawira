@@ -1,17 +1,17 @@
-# Halo semua! 
+//# Halo semua! 
 
-Perkenalkan nama saya **Wisnu Prawira**.
+//Perkenalkan nama saya **Wisnu Prawira**.
 
 
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/wisnu-prawira-bb53691bb/)ku ya.
-<p align="left">
-<a href="https://github.com/gilangadhan">
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=gilangadhan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gilangadhan&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
-    <h1>🚀 Dunia Koding Wisnu 🌐</h1>
-# 🚀 Wisnu's Dunia Koding 🌐
+//Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/wisnu-prawira-bb53691bb/)ku ya.
+//<p align="left">
+//<a href="https://github.com/gilangadhan">
+//<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=gilangadhan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+//<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gilangadhan&layout=compact&langs_count=8&theme=algolia"/>
+//</a>
+//</p>
+    //<h1>🚀 Wisnu 🌐</h1>
+# 🚀 Wisnu's 🌐
 
 ### Tentang Saya 💻
 
@@ -23,7 +23,7 @@ Hai! Saya Wisnu, pengembang web dan mobile yang bersemangat. Saya mulai tertarik
 
 - ![PHP](https://img.icons8.com/color/48/000000/php.png) **PHP** - Andalan saya di dunia koding
 - ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) **JavaScript** - Bikin web jadi interaktif ☕
-- ![Laravel](https://img.icons8.com/color/48/000000/laravel.png) **Laravel** - PHP dengan fitur yang lebih mantap 🌶️
+- ![Laravel](https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/000000/external-laravel-is-a-free-open-source-php-web-framework-logo-color-tal-revivo.png) **Laravel** - PHP dengan fitur yang lebih mantap 🌶️
 - ![Vue.js](https://img.icons8.com/color/48/000000/vue-js.png) **Vue.js** - Buat frontend makin kece
 - ![Flutter](https://img.icons8.com/color/48/000000/flutter.png) **Flutter** - Membuat aplikasi mobile yang cepat dan responsif 📱
 - ![MySQL](https://img.icons8.com/color/48/000000/mysql.png) **MySQL** - Menyimpan data dengan rapi 📚
@@ -47,8 +47,9 @@ Hai! Saya Wisnu, pengembang web dan mobile yang bersemangat. Saya mulai tertarik
 5. **tugas_akhir_eduwork** (Laravel + Vue.js):
    Proyek akhir yang melibatkan pembangunan aplikasi berbasis Laravel untuk backend dan Vue.js di frontend. Menggabungkan pengalaman full-stack yang optimal untuk aplikasi web modern.
 
-6. **toko-online** (PHP murni):
+6. **toko-online** (PHP):
    **ShopEase** adalah platform toko online yang dibangun dengan PHP murni. Aplikasi ini menawarkan solusi e-commerce yang sederhana namun efektif, memungkinkan pengguna untuk menjelajahi produk, menambah ke keranjang, dan melakukan pembelian dengan mudah.
+
 
 ---
 
