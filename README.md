@@ -10,7 +10,7 @@ Hi! I'm Wisnu, a passionate web and mobile developer. I've been fascinated by te
 
 - ![PHP](https://img.icons8.com/color/48/000000/php.png) **PHP** 
 - ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) **JavaScript** 
-- ![Laravel](https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/000000/external-laravel-is-a-free-open-source-php-web-framework-logo-color-tal-revivo.png) 
+- ![Laravel](https://img.icons8.com/color/48/000000/laravel.png) **Laravel**
 - ![Vue.js](https://img.icons8.com/color/48/000000/vue-js.png) **Vue.js** 
 - ![Flutter](https://img.icons8.com/color/48/000000/flutter.png) **Flutter** 
 - ![MySQL](https://img.icons8.com/color/48/000000/mysql.png) **MySQL** 
