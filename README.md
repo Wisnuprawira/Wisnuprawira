@@ -5,7 +5,7 @@
 Hi! I'm Wisnu, a passionate web and mobile developer. I've been fascinated by technology since high school and have continuously honed my skills in web and mobile application development. Currently, I specialize in PHP, Laravel, Vue.js, and Flutter to create modern and responsive applications. Let's make the web and mobile apps awesome! 😎
 
 ---
-Skills 🚀
+**Skills** 🚀
 - Technical Skills :   | HTML | CSS | Laravel | Vue JS | PHP My Admin | Flutter | Dart |
 - Soft Skills      :   | Communication | Collaboration | Adaption | Problem-Solved |
 
