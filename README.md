@@ -6,7 +6,7 @@ Hi! I'm Wisnu, a passionate web and mobile developer. I've been fascinated by te
 
 ---
 ### Skills 🚀
-- Technical Skills :   | HTML | CSS | Laravel | Vue JS | PHP My Admin | Flutter | Dart |
+- Technical Skills :   | HTML | CSS | Laravel | Vue JS | Mysql | Flutter | Dart |
 - Soft Skills      :   | Communication | Collaboration | Adaption | Problem-Solved |
 
 
