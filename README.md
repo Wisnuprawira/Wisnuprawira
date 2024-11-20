@@ -44,3 +44,4 @@ Hi! I'm Wisnu, a passionate web and mobile developer. I've been fascinated by te
 
 - [![Email](https://img.icons8.com/color/48/000000/gmail.png)](mailto:wisnu.prawira.jobs@gmail.com)
 - [![LinkedIn](https://img.icons8.com/color/50/000000/linkedin.png)](https://www.linkedin.com/in/wisnuprawira/)
+- [![Whatsapp](https://img.icons8.com/?size=100&id=16713&format=png&color=000000)](https://wa.me/6285880127783) 
