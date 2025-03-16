@@ -28,7 +28,7 @@ Hi! I'm Wisnu, a passionate web and mobile developer. I've been fascinated by te
    A company profile website built using PHP to professionally showcase a company's information, enhancing its digital presence.
 2. **Laravel-Vue** (HTML + Vue.js):
    A web application utilizing Laravel for the backend and Vue.js for the frontend, providing dynamic and responsive interactions.
-3. **Stock-** (Flutter + Laravel):
+3. **Stock-** (Laravel):
    A stock management system built with Laravel for the backend and Flutter for the frontend, delivering a modern and responsive app experience on mobile devices.
 4. **apps_coffe** (Flutter + PHP):
    is an online coffee ordering app, allowing users to customize their orders, enjoy loyalty programs, and receive real-time notifications. Built with **Flutter** for the frontend and **PHP** for the backend, it offers a seamless mobile
